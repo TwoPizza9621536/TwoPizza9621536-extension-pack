@@ -5,7 +5,9 @@
   "publisher": "TwoPizza9621536",
   "version": "0.0.1",
   "repository": {
-    "github": "https://github.com/TwoPizza9621536/TwoPizza9621536-extension-pack"
+    "github": "https://github.com/TwoPizza9621536/TwoPizza9621536-extension-pack",
+    "gitlab": "https://gitlab.com/TwoPizza9621536/TwoPizza9621536-extension-pack",
+    "azure": "https://dev.azure.com/TwoPizza9621536/TwoPizza9621536-extension-pack"
   },
   "engines": {
     "vscode": "^1.52.0"
