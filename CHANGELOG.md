@@ -7,8 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.2] - 2021-02-02
+
+Added
+
+- asvetliakov.vscode-neovim
+- frenco.vscode-notion
+- formulahendry.auto-complete-tag
+- Mikhail-Arkhipov.r
+- msjsdiag.vscode-react-native
+- yzhang.dictionary-completion
+- abusaidm.html-snippets
+
 ## Initial release [0.0.1] - 2021-01-27
 
-### Added
+Added
 
 - 506 extensions for workload see extension list.
