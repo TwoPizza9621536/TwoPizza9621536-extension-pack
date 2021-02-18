@@ -3,6 +3,8 @@
 This extension pack is comprise of popular extensions, extension packs,
 theme and icon packs that you probably do not e
 
+This is from the yeoman generator. See the generator [here](https://yeoman.io/).
+
 But this pack does contains some of the most popular extensions from
 the [visual studio marketplace](https://marketplace.visualstudio.com/vscode).
 
