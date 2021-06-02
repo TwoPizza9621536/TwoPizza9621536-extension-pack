@@ -26,8 +26,6 @@ This pack includes for the following languages:
 - Typescript
 - F#
 - Powershell/Batch/Shell/Bash Script
-- Lisp
-- and more.
 
 There are also some cosmetics and extras that you might like.
 
@@ -37,12 +35,16 @@ Check the pack for the list of extensions.
 
 ## Installing the pack
 
-> **Warning there are proximity 500
-> and more extensions.
-> This will slow the computer down and
-> takes up a couple gigabytes of storage.
-> Do not install if your hardware is old
-> or slow. I have warning you.**
+> **Warning there are proximity 500 and more extensions.
+> This will slow the computer down and takes up a couple gigabytes of storage.
+> Do not install if your hardware is old or slow.
+> I have warning you.**
+
+> **NOTICE
+> INGORE THE WARNING ABOVE.
+> THE WARNING ABOVE DOES NOT APPLY FOR VERSIONS 0.0.4 AND LATER.
+> THIS NOTICE WILL BE REMOVED WHEN THE NUMBER OF EXTERNSION WILL REACH 500.
+> THANK YOU.**
 
 Installing the pack in vscode from the
 extension manager or command panel.
@@ -54,7 +56,8 @@ Installing the pack from VSIX.
 ## License
 
 Most of the extensions are license under
-the MIT, ISC or BSD-(3|2) Clause license.
+the MIT, ISC, BSD-(3|2) Clause license, Apache License, Version 2.0
+or other premissive license.
 Check the extension for more info.
 
 This is extension pack is license under the MIT License.
