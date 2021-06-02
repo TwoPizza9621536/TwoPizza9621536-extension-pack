@@ -1,7 +1,7 @@
 # TwoPizza9621536 Extension Pack
 
 This extension pack is comprise of popular extensions, extension packs,
-theme and icon packs that you probably do not need.
+theme and icon packs that you probably do (not) need.
 
 This is from the yeoman generator. See the generator [here](https://yeoman.io/).
 
