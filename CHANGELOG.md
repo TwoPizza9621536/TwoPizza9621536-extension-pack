@@ -2,10 +2,17 @@
 
 All notable changes to the "TwoPizza9621536 extension pack" extension pack will be documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+The format is based on
+[Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to
+[Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [0.0.4] - 2021-06
+
+Removed and added
+
+Removed at least 300 extensions and added about 30 extensions.
+See the diff for package.json to see the changes.
 
 ## [0.0.3] - 2021-02
 
@@ -46,4 +53,4 @@ Added
 
 Added
 
-- 506 extensions for workload see extension list.
+- 506 extensions for workload see package.json for the list.
