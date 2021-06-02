@@ -18,7 +18,6 @@ This pack includes for the following languages:
 - Go
 - Dart
 - Rust
-- Visual Basic .NET (not really)
 - Markdown
 - HTML
 - CSS
