@@ -1,49 +1,9 @@
 # TwoPizza9621536 Extension Pack
 
-This extension pack is comprise of popular extensions, extension packs,
-theme and icon packs that you probably do (not) need.
-
-This is from the yeoman generator. See the generator [here](https://yeoman.io/).
-
-But this pack does contains some of the most popular extensions from
-the [visual studio marketplace](https://marketplace.visualstudio.com/vscode).
-
-This pack includes for the following languages:
-
-- C/C++
-- C#
-- Python
-- Java
-- Kotlin
-- Go
-- Dart
-- Rust
-- Markdown
-- HTML
-- CSS
-- Javascript
-- Typescript
-- F#
-- Powershell/Batch/Shell/Bash Script
-
-There are also some cosmetics and extras that you might like.
-
-Configure the extension pack at your own pleasure.
-
+My list of essentials extensions for Visual Studio Code.
 Check the pack for the list of extensions.
 
 ## Installing the pack
-
-> **Warning there are proximity 500 and more extensions.
-> This will slow the computer down and takes up a couple gigabytes of storage.
-> Do not install if your hardware is old or slow.
-> I have warning you.**
-
-> **NOTICE
-> INGORE THE WARNING ABOVE.
-> THE WARNING ABOVE DOES NOT APPLY FOR VERSIONS 0.0.4 AND LATER.
-> THIS NOTICE WILL BE REMOVED WHEN THE NUMBER OF EXTERNSION WILL REACH 500.
-> THANK YOU.**
 
 Installing the pack in vscode from the
 extension manager or command panel.
@@ -51,6 +11,10 @@ extension manager or command panel.
 Or
 
 Installing the pack from VSIX.
+
+## Credits
+
+This is from the yeoman generator. See the generator [here](https://yeoman.io/).
 
 ## License
 

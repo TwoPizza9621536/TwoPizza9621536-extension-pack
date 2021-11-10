@@ -7,6 +7,20 @@ The format is based on
 and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.2.0]- 2021-11
+
+Removed
+
+- 200 extensions
+
+Added
+
+- See the difference history for the added
+
+Changed
+
+- The version number to match how many times I have rebuild my extensions list
+
 ## [0.0.5] - 2021-09
 
 Added
