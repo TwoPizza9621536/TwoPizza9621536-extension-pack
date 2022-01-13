@@ -7,23 +7,37 @@ The format is based on
 and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.2.0]- 2021-11
+(Yes this is very informal)
 
-Removed
+## [0.2.2] - 2022-01
+
+### Added
+
+See the diff for 0.2.1-0.2.2
+
+## [0.2.1] - 2021-12
+
+### Added
+
+See the diff for 0.2.0-0.2.1
+
+## [0.2.0] - 2021-11
+
+### Removed
 
 - 200 extensions
 
-Added
+### Added
 
 - See the difference history for the added
 
-Changed
+### Changed
 
 - The version number to match how many times I have rebuild my extensions list
 
 ## [0.0.5] - 2021-09
 
-Added
+### Added
 
 - "13xforever.language-x86-64-assembly"
 - "agutierrezr.emmet-keybindings"
@@ -40,7 +54,7 @@ Added
 - "bowlerhatllc.vscode-as3mxml"
 - "bowlerhatllc.vscode-nextgenas"
 - "bowlerhatllc.vscode-swf-debug"
--"bradlc.vscode-tailwindcss"
+- "bradlc.vscode-tailwindcss"
 - "BriteSnow.vscode-toggle-quotes"
 - "brunnerh.insert-unicode"
 - "ctf0.macros"
@@ -136,20 +150,20 @@ Added
 - "ZixuanWang.linkerscript"
 - "Zowe.vscode-extension-for-zowe"
 
-Removed
+### Removed
 
 - "CoenraadS.bracket-pair-colorizer-2"
 
 ## [0.0.4] - 2021-06
 
-Removed and added
+### Removed and added
 
 Removed at least 300 extensions and added about 30 extensions.
 See the diff for package.json to see the changes.
 
 ## [0.0.3] - 2021-02
 
-Added
+### Added
 
 - akamud.vscode-javascript-snippet-pack
 - basdp.language-gas-x86
@@ -164,7 +178,7 @@ Added
 - SirTori.indenticator
 - zanza00.random-theme-switcher
 
-Removed
+### Removed
 
 - chenxsan.vscode-standardjs
 - ritwickdey.live-sass
@@ -172,7 +186,7 @@ Removed
 
 ## [0.0.2] - 2021-02-02
 
-Added
+### Added
 
 - asvetliakov.vscode-neovim
 - frenco.vscode-notion
@@ -184,6 +198,6 @@ Added
 
 ## Initial release [0.0.1] - 2021-01-27
 
-Added
+### Added
 
 - 506 extensions for workload see package.json for the list.
