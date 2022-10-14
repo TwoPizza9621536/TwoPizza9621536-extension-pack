@@ -2,7 +2,7 @@
     "name": "twopizza9621536-extension-pack",
     "displayName": "TwoPizza9621536 Extension Pack",
     "description": "Extensions for my vscode setup for general-purpose programing.",
-    "version": "0.4.0",
+    "version": "0.4.1",
     "publisher": "TwoPizza9621536",
     "repository": {
         "github": "https://github.com/TwoPizza9621536/TwoPizza9621536-extension-pack"
@@ -37,7 +37,6 @@
         "cheshirekow.cmake-format",
         "christian-kohler.npm-intellisense",
         "christian-kohler.path-intellisense",
-        "clcxce.tup-lang",
         "codezombiech.gitignore",
         "cschlosser.doxdocgen",
         "cssho.vscode-svgviewer",
@@ -157,7 +156,6 @@
         "shalldie.background",
         "sibiraj-s.vscode-scss-formatter",
         "skacekachna.win-opacity",
-        "slevesque.vscode-hexdump",
         "sourcery.sourcery",
         "standard.vscode-standard",
         "streetsidesoftware.code-spell-checker",
